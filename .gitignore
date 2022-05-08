@@ -1,0 +1,5 @@
+# please ignore the following files
+*.ini
+*.inf
+*.txt
+system
